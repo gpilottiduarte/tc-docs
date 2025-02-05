@@ -7,7 +7,7 @@ senhasegura is a comprehensive Privileged Access Management (PAM) solution desig
 1. **Secure Privileged Access**
    - senhasegura ensures that only authorized personnel have access to sensitive data.
    - Utilizes strict authentication and authorization methods, such as multi-factor authentication (MFA), to prevent unauthorized access and protect against insider threats.
-   - Example Scenario: A financial institution uses senhasegura to enforce multi-factor authentication for accessing high-value accounts, reducing the risk of unauthorized access.
+   - Example scenario: A financial institution uses senhasegura to enforce multi-factor authentication for accessing high-value accounts, reducing the risk of unauthorized access.
 
 2. **Credential Management**
    - Provides robust credential management capabilities to store, rotate, and manage privileged accounts securely.
