@@ -1,3 +1,9 @@
+---
+description: >-
+  Página inicial do senhasegura, descrevendo as principais funcionalidades e
+  casos de uso.
+---
+
 # Sobre o senhasegura
 
 ## **Introdução**
@@ -14,7 +20,7 @@ No espaço tradicional de Gestão de Acesso à Informação (IAM) em cibersegura
 
 O senhasegura abrange essas soluções e muito mais, garantindo que tanto contas privilegiadas com acesso administrativo quanto contas de usuários gerais sejam protegidas contra ameaças. Gerenciando vários tipos de contas, garantindo a segurança das credenciais e monitorando o acesso a ativos críticos, ele reforça a segregação de funções e mantém a conformidade regulatória. Esta abordagem abrangente capacita as organizações a otimizar o gerenciamento de acesso, aumentar a segurança e aplicar processos seguros de forma eficiente em seus ambientes de TI.
 
----
+***
 
 ## **Como o senha segura funciona**
 
@@ -38,7 +44,7 @@ A solução senhasegura foi desenvolvida com base em uma arquitetura robusta pro
 * **Domum Remote Access:** media e monitora as sessões de usuários em sistemas confidenciais.
 * **MySafe:** fornece acesso monitorado a bancos de dados, garantindo atividades seguras de DBA.
 
-#### **Privilege elevation and delegation management \- Gerenciamento de elevação e delegação de privilégios**
+#### **Privilege elevation and delegation management - Gerenciamento de elevação e delegação de privilégios**
 
 * **Go Endpoint Manager for Windows:** gerencia acesso privilegiado em endpoints do Windows.
 * **Go Endpoint Manager for Linux:** gerencia acesso privilegiado em endpoints do Linux.
@@ -51,7 +57,7 @@ A solução senhasegura foi desenvolvida com base em uma arquitetura robusta pro
 
 #### **Multicloud**
 
-* **CIEM \- Cloud Entitlements Manager:** gerencia direitos da infraestrutura em nuvem com segurança.
+* **CIEM - Cloud Entitlements Manager:** gerencia direitos da infraestrutura em nuvem com segurança.
 * **Cloud IAM:** garante o gerenciamento seguro de identidade e acesso em ambientes de nuvem.
 
 #### **Gerenciamento do ciclo de vida de certificados**
@@ -65,7 +71,7 @@ A solução senhasegura foi desenvolvida com base em uma arquitetura robusta pro
 
 Ao usar os poderosos módulos e componentes do senhasegura, sua organização pode garantir um gerenciamento de acesso privilegiado seguro, monitorado e em conformidade, reduzindo o risco de ameaças cibernéticas e aprimorando a postura geral de segurança.
 
----
+***
 
 ## **Fluxo de trabalho**
 
@@ -80,7 +86,7 @@ O fluxo de trabalho no senhasegura foi projetado para oferecer uma maneira segur
 7. **Logout:** os usuários fazem logout e todas as permissões temporárias concedidas durante a sessão são revogadas.
 8. **Auditoria e relatórios:** os administradores podem revisar gravações de sessão, logs de alterações e relatórios de atividade do usuário para garantir conformidade e segurança.
 
----
+***
 
 ## **Instalação do senhasegura**
 
